@@ -45,7 +45,7 @@ Dynamic Content Engine: 대규모 문제 은행(All Questions) 데이터를 기�
 
 Smart Progress Tracking: 실시간 프로그레스 바와 중간 채점 기능을 통해 현재 학습 성취도를 시각적으로 확인할 수 있습니다.
 
-4. 📝 AI Markdown Template Builder
+# 4. 📝 AI Markdown Template Builder
 사용자가 입력한 상황(SITUATION)에 맞춰 최적의 마크다운 문서 구조를 AI가 즉석에서 설계해주는 문서 자동화 템플릿 엔진입니다.
 
 🌟 Key Features (주요 기능)
